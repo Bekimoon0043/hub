@@ -1,0 +1,14 @@
+.navbar-custom {
+    background-color: blue; /* Set the background color to blue */
+    color: white; /* Set the text color to white */
+}
+.navbar-custom .navbar-brand {
+    color: white; /* Ensure the brand text is white */
+    font-size: 1.5rem; /* Increase font size */
+    font-weight: bold; /* Make the font bold */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add a text shadow */
+}
+.contactus {
+    text-align: center; /* Center the icon */
+    margin: 20px 20px 20px 20px; /* Add some margin on top */
+}
